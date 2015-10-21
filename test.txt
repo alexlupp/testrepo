@@ -4,3 +4,6 @@ change 3 dev
 more development work
 feature 1 change 2
 feature 1 change 3
+development work to be deleted
+local change 2
+local change 4
